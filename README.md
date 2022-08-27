@@ -4,7 +4,7 @@ Projects related to astronomy, astrophysics and so on using python. May add astr
 ### Projects
 1. Planets Simulation (Solar System)
 
-### ToDo
+### To Do
 - [ ] CLI support
 - [ ] User freedom 
 - [ ] Documentation
