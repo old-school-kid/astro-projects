@@ -6,7 +6,7 @@ Projects related to astronomy, astrophysics and so on using python. May add astr
 
 ### ToDo
 - [ ] CLI support
-- [X] User freedom 
+- [ ] User freedom 
 - [ ] Documentation
 
 ### Contributions
